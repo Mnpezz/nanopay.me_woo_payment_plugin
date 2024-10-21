@@ -2,7 +2,7 @@
 
 ## Warning
 
-This plugin is experimental and has not been reviewed. There are likely bugs.
+This plugin is experimental and has not undergone a full review. Bugs and issues may still be present.
 
 ## Description
 
