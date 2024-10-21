@@ -1,5 +1,9 @@
 # NanoPay.me WooCommerce Payment Gateway
 
+## Warning
+
+This plugin is experimental and has not been reviewd. There are likely bugs.
+
 ## Description
 
 This plugin integrates NanoPay.me as a payment method for WooCommerce, allowing customers to pay with Nano cryptocurrency. It supports both the classic WooCommerce checkout and the new WooCommerce Blocks checkout.
