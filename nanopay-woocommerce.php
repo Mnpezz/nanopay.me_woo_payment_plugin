@@ -2,7 +2,7 @@
 /*
 Plugin Name: NanoPay.me Payment Processor for WooCommerce
 Description: Integrate NanoPay.me as a payment method for WooCommerce
-Version: 1.0
+Version: 1.1
 Author: mnpezz
 Plugin URI: http://github.com/mnpezz
 Requires at least: 5.0
